@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "advent-ascension-tree-grow.refmap.json",
+    "package": "rmc.mixins.advent_ascension_tree_grow.inject",
+    "mixins": [
+        "SaplingBlockMixin"
+    ]
+}
